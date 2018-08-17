@@ -1,6 +1,6 @@
 FROM alpine:3.7
 
-LABEL maintainer="moi@foray-jero.me"
+LABEL maintainer="wildgenie@outlook.com"
 
 ENV NGINX_VERSION 1.14.0
 ENV NCHAN_VERSION 1.2.1
